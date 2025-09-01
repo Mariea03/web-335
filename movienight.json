@@ -1,0 +1,27 @@
+{
+    "viewer": {
+        "_id": "101",
+        "firstName": "Stephanie",
+        "lastName": "Speck",
+        "movies": [
+            {
+                "_id": "5986",
+                "movieName": "Short Circuit",
+                "genre": "Comedy/Sci-fi",
+                "rating": {
+                    "_id": "15-m",
+                    "ratingScore": 5
+                }
+            },
+            {
+                "_id": "102",
+                "movieName": "Cocoon",
+                "genre": "Comedy/Drama",
+                "rating": {
+                    "_id": "17-m",
+                    "ratingScore": 5
+                }
+            }
+        ]
+    }
+}
