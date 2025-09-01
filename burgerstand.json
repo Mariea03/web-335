@@ -1,0 +1,42 @@
+{
+    "customers": [
+        {
+         "_id":"A101",
+         "firstName": "Tom",
+         "lastName": "Jones",
+         "orders": [
+               {
+                 "_id": "1A",
+                 "burgerName": "Cheese Burger",
+                 "quantity": 1,
+                 "price": 5.99
+                },
+               {
+                 "_id": "1B",
+                 "burgerName": "Burger Deluxe",
+                 "quantity": 2,
+                 "price": 15.98
+                }
+            ]    
+        },
+        {
+         "_id":"A102",
+        "firstName": "Ben",
+        "lastName":"Franklin",
+        "orders": [
+            {
+                "_id": "1C",
+                "burgerName": "Burger Deluxe",
+                "quantity": 1,
+                "price": 7.99
+            },
+            {
+                "_id": "1D",
+                "burgerName":"Cheese Burger",
+                "quantity": 2,
+                "price": 11.98
+            }
+        ]
+    }
+  ]
+}
