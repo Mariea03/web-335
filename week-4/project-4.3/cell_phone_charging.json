@@ -1,0 +1,27 @@
+{
+    "_id": "user505",
+    "firstName": "Cierra",
+    "lastName": "Helms",
+    "devices": [
+        {
+            "device_id": "dev16",
+            "deviceName": "iPhone 16 Plus",
+            "deviceType": "Smartphone",
+            "charger": {
+                "charger_id": "chg11A",
+                "chargerType": "USB - C Lighting Charger",
+                "voltage": 20
+            }
+        },
+        {
+            "device_id": "devP10",
+            "deviceName": "iPad 10.9",
+            "deviceType": "tablet computer",
+            "charger": {
+                "charger_id": "chg 22B",
+                "chargerType": "Type C",
+                "voltage": 10
+            }
+        }
+    ]
+}
