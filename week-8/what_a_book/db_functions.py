@@ -124,4 +124,4 @@ if __name__ == "__main__":
     wishlist = get_wishlist_by_customer(db, "c102")
     for w in wishlist:
         print(f" - {w.get('title', 'Unknown')} ({w.get('genre', 'Uknown')})")       
-     
+      

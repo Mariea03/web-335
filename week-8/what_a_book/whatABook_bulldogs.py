@@ -23,7 +23,7 @@ def connect_to_database():
     print("Connected to MongoDB successfully!")
 
     # Configure a variable to access the database
-    db = client['whatABook']
+    db = client['WhatABook']
     return db
   except (ConnectionFailure):
     print("Failed to connect to MongoDB. Please check connection string and network connectivity.")

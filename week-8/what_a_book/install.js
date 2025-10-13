@@ -34,14 +34,24 @@ db.books.insertMany([
 // Insert customers
 db.customers.insertMany([
     {
-        customerId: c102,
+        customerId: "c102",
         firstName: "Mark",
         lastName: "Whalberg"
     },
     {
-        customerId: c103,
+        customerId: "c103",
         firstName: "Donny",
         lastName: "Whalberg"
+    },
+        {
+        customerId: "c104",
+        firstName: "Harry",
+        lastName: "styles"
+    },
+    {
+        customerId: "c105",
+        firstName: "Michelle",
+        lastName: "Pfifer"
     }
 ])
 
